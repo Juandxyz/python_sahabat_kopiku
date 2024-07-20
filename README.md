@@ -15,7 +15,7 @@
 1. **Clone Repository**
 
    ```bash
-   https://github.com/Juandxyz/python_sahabat_kopiku.git
+   git clone https://github.com/Juandxyz/python_sahabat_kopiku.git
    ```
 
 2. **Masuk ke Direktori Proyek**
